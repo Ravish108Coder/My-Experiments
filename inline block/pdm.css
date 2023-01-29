@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    /* position: relative; */
+}
+
+body {
+    background-color: rgb(90, 23, 62);
+}
+
+.main-container {
+    border: 10px solid whitesmoke;
+    background: rgb(245, 242, 242);
+}
+.ababab{
+    position: fixed;
+    background-color: aqua;
+}
+.container {
+    margin: 10px;
+    padding: 12px;
+    border-radius: 14px;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 23.4%;
+    height: 200px;
+    background-color: #286693fc;
+    color: #e8d6d6;
+    font-family: 'Noto Serif Ahom', serif;
+}
+
+.hehehe{
+    /* position: sticky; */
+    background-color: rgb(2, 28, 28);
+}
+/* #box1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#box2{
+    font-family:cursive;
+}
+#box3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} */
+/* #box1 #box2 #box3 #box4{
+    position: sticky;
+
+} */
