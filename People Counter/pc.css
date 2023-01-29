@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+
+.c1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    margin-left: 20rem;
+}
+
+.c2
+{
+    font-size: xxx-large;
+    margin-left: 37rem;
+}
+
+.c4{
+    background-color: rgb(244, 130, 8);
+    border-radius: 40px;
+    margin: 4px;
+    font-weight: 100;
+    font-size: xx-large;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 253, 240);
+}
+.c3{
+    margin-top: 6rem;
+    margin-left: 22rem;
+    /* color:wheat; */
+}
+
+.c4:hover{
+    cursor: pointer;
+    background-color:rgb(212, 133, 42) ;
+    font-weight: 600;
+}
